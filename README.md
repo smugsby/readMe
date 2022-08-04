@@ -1,8 +1,8 @@
-# read
+ read me generator
     ## Description 
-    school
+    school project
     ## Usage 
-    like this
+    generates read.me files
     ## Questions
     For more infomration email dhuffman. 
   
